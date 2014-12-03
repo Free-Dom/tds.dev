@@ -11,6 +11,10 @@
 |
 */
 
+print App::environment();
+
+//User::find(1);
+
 Route::get('/', function()
 {
 	return View::make('hello');

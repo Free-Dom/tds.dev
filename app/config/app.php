@@ -78,8 +78,8 @@ return array(
 	|
 	*/
 
-	//'key' => 'x178lTG9DD4KWtE0LdZXeBegcLHoKHE1',
-	'key' => '',
+ 	'key' => 'x178lTG9DD4KWtE0LdZXeBegcLHoKHE1',
+
 
 	'cipher' => MCRYPT_RIJNDAEL_128,
 
