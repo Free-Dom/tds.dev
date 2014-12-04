@@ -87,9 +87,9 @@
             </li>
           </ul>
 
+        </div>
 
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
+      </div>
     </nav>
   </div>
 </div>
@@ -111,9 +111,7 @@
 
   <div class="container">
 
-
-  </div><!-- ./container-fluid -->
-
+  </div>
 
 </div>
 
